@@ -1,0 +1,5 @@
+Caution, this program is experimental and is based on string replacement
+to replace dynamic class as well as legacy instanciation
+Do not use without BACKUP before and CHECK the replacements of namespaces did'nt corrupt anything else.
+To the wise.
+You can test it selecting the sample-test folder
